@@ -31,7 +31,7 @@ def delete_task():
 
     print("Task deleted!")
 
-# Main Menu
+
 while True:
     print("\n1. Add Task")
     print("2. View Tasks")
@@ -51,3 +51,4 @@ while True:
         break
     else:
         print("Invalid choice.")
+
